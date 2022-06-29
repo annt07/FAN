@@ -1,0 +1,3903 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrainDatabase>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:05:09,960</StartTime>
+      <Length>3402</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Brad Pitt" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:16:37,640</StartTime>
+      <Length>5131</Length>
+      <Person AgeOfActor="63" AgeOfCharacter="60" Gender="Male" NameOfActor="Elliott Gould" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:20:10,400</StartTime>
+      <Length>2162</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Male" NameOfActor="Don Cheadle" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:20:14,840</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Male" NameOfActor="Don Cheadle" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:37:01,120</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="Eddie Jemison" AgeOfCharacter="40" Gender="Male" NameOfActor="40" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:38:53,320</StartTime>
+      <Length>5245</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Male" NameOfActor="Don Cheadle" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:39:10,920</StartTime>
+      <Length>2367</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Male" NameOfActor="Don Cheadle" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:50:15,240</StartTime>
+      <Length>3800</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="35" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:54:19,880</StartTime>
+      <Length>2048</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Male" NameOfActor="Don Cheadle" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:54:36,800</StartTime>
+      <Length>1525</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Male" NameOfActor="Don Cheadle" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>00:58:46,280</StartTime>
+      <Length>3083</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Male" NameOfActor="Matt Damon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>01:01:55,840</StartTime>
+      <Length>3004</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Brad Pitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>01:05:05,920</StartTime>
+      <Length>3243</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Male" NameOfActor="Andy Garcia" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>01:27:43,760</StartTime>
+      <Length>1684</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="35" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>01:35:42,000</StartTime>
+      <Length>3971</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Male" NameOfActor="Andy Garcia" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansEleven">
+      <StartTime>01:35:47,000</StartTime>
+      <Length>3721</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Male" NameOfActor="Andy Garcia" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:04:16,200</StartTime>
+      <Length>2367</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="36" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:04:22,800</StartTime>
+      <Length>4369</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="36" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:05:40,800</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="36" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:05:52,400</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="36" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:17:42,240</StartTime>
+      <Length>1684</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="36" Gender="Male" NameOfActor="Brad Pitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:18:17,760</StartTime>
+      <Length>2480</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="41" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:25:51,440</StartTime>
+      <Length>4050</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="31" Gender="Male" NameOfActor="Matt Damon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:27:28,760</StartTime>
+      <Length>4210</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="31" Gender="Male" NameOfActor="Matt Damon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:28:50,840</StartTime>
+      <Length>2924</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="31" Gender="Male" NameOfActor="Matt Damon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:43:09,120</StartTime>
+      <Length>4244</Length>
+      <Person AgeOfActor="48" AgeOfCharacter="46" Gender="Male" NameOfActor="Andy Garcia" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>00:57:42,240</StartTime>
+      <Length>4961</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Vincent Cassel" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>01:18:33,280</StartTime>
+      <Length>2731</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="36" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>01:18:45,760</StartTime>
+      <Length>1411</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="36" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>01:18:47,320</StartTime>
+      <Length>2162</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="36" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>01:18:55,880</StartTime>
+      <Length>1411</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="36" Gender="Female" NameOfActor="Julia Roberts" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>01:35:57,320</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="48" AgeOfCharacter="50" Gender="Female" NameOfActor="Cherry Jones" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansTwelve">
+      <StartTime>01:36:06,640</StartTime>
+      <Length>1331</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="31" Gender="Male" NameOfActor="Matt Damon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:01:43,240</StartTime>
+      <Length>1679</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:14:54,240</StartTime>
+      <Length>3639</Length>
+      <Person AgeOfActor="51" AgeOfCharacter="50" Gender="Male" NameOfActor="Douglas McGrath" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:22:32,880</StartTime>
+      <Length>1479</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:29:52,120</StartTime>
+      <Length>1479</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:29:53,600</StartTime>
+      <Length>1599</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:33:58,400</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="20" Gender="Female" NameOfActor="Imogen Poots" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:36:53,680</StartTime>
+      <Length>3846</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:46:14,520</StartTime>
+      <Length>1839</Length>
+      <Person AgeOfActor="" AgeOfCharacter="" Gender="Male" NameOfActor="" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:53:52,720</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>00:53:55,200</StartTime>
+      <Length>2128</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="35" Gender="Female" NameOfActor="Jenna Fischer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:01:54,280</StartTime>
+      <Length>3199</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:06:23,160</StartTime>
+      <Length>1879</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="20" Gender="Female" NameOfActor="Imogen Poots" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:10:55,560</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:11:48,120</StartTime>
+      <Length>2599</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:11:52,200</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:11:58,480</StartTime>
+      <Length>3239</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:17:14,960</StartTime>
+      <Length>2799</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="20" Gender="Male" NameOfActor="Jesse Eisenberg" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:19:15,720</StartTime>
+      <Length>1479</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Female" NameOfActor="Susan Sarandon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:19:17,200</StartTime>
+      <Length>3319</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:20:46,880</StartTime>
+      <Length>1959</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:20:51,160</StartTime>
+      <Length>2479</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Male" NameOfActor="Michael Douglas" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SolitaryMan">
+      <StartTime>01:21:15,800</StartTime>
+      <Length>5484</Length>
+      <Person AgeOfActor="65" AgeOfCharacter="60" Gender="Female" NameOfActor="Susan Sarandon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>00:10:30,280</StartTime>
+      <Length>3561</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="16" Gender="Male" NameOfActor="Michael Cera" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>00:18:34,160</StartTime>
+      <Length>2526</Length>
+      <Person AgeOfActor="16" AgeOfCharacter="16" Gender="Female" NameOfActor="asiangirl" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>00:19:34,160</StartTime>
+      <Length>3004</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="16" Gender="Female" NameOfActor="Olivia Thirlby" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>00:22:55,200</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Ellen Page" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>00:33:21,880</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Ellen Page" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>01:06:26,240</StartTime>
+      <Length>3641</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Ellen Page" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>01:09:39,560</StartTime>
+      <Length>4801</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="35" Gender="Female" NameOfActor="Jennifer Garner" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>01:15:59,400</StartTime>
+      <Length>3129</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Ellen Page" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>01:16:22,200</StartTime>
+      <Length>4483</Length>
+      <Person AgeOfActor="52" AgeOfCharacter="50" Gender="Male" NameOfActor="J.K. Simmons" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>01:18:33,760</StartTime>
+      <Length>4005</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Ellen Page" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Juno">
+      <StartTime>01:24:47,680</StartTime>
+      <Length>3527</Length>
+      <Person AgeOfActor="48" AgeOfCharacter="45" Gender="Female" NameOfActor="Allison Janney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="GirlWithAPearlEarring">
+      <StartTime>00:15:44,320</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="18" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="GirlWithAPearlEarring">
+      <StartTime>00:15:49,320</StartTime>
+      <Length>2685</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="18" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="GirlWithAPearlEarring">
+      <StartTime>00:44:32,000</StartTime>
+      <Length>1365</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="18" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="GirlWithAPearlEarring">
+      <StartTime>00:44:48,480</StartTime>
+      <Length>2924</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="18" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="GirlWithAPearlEarring">
+      <StartTime>00:55:58,720</StartTime>
+      <Length>1684</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Female" NameOfActor="MrsVermeer" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="GirlWithAPearlEarring">
+      <StartTime>01:24:24,200</StartTime>
+      <Length>3482</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Male" NameOfActor="Colin Firth" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:07:05,360</StartTime>
+      <Length>3163</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Female" NameOfActor="Karen Kuioka Hironaga" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:12:28,240</StartTime>
+      <Length>2367</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="70" Gender="Male" NameOfActor="OldDoctor" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:16:44,720</StartTime>
+      <Length>2128</Length>
+      <Person AgeOfActor="10" AgeOfCharacter="10" Gender="Female" NameOfActor="Amara Miller" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:26:31,560</StartTime>
+      <Length>3049</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:26:43,280</StartTime>
+      <Length>2810</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Shailene Woodley" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:27:12,960</StartTime>
+      <Length>4130</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Shailene Woodley" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:32:19,120</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:32:21,880</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Female" NameOfActor="Mary Birdsong" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:32:24,360</StartTime>
+      <Length>3891</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Female" NameOfActor="Mary Birdsong" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:32:28,440</StartTime>
+      <Length>2526</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Female" NameOfActor="Mary Birdsong" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:38:13,480</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="18" Gender="Male" NameOfActor="Nick Krause" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:38:58,520</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:45:59,600</StartTime>
+      <Length>2480</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Shailene Woodley" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:52:17,360</StartTime>
+      <Length>4449</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Shailene Woodley" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>00:54:02,480</StartTime>
+      <Length>3083</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:03:06,120</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="18" Gender="Male" NameOfActor="Nick Krause" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:17:37,720</StartTime>
+      <Length>2162</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Male" NameOfActor="Matthew Lillard" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:17:45,280</StartTime>
+      <Length>3083</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Male" NameOfActor="Matthew Lillard" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:20:12,320</StartTime>
+      <Length>3527</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:20:28,960</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:20:37,520</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:20:39,560</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:20:54,280</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="41" Gender="Male" NameOfActor="Matthew Lillard" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:30:42,560</StartTime>
+      <Length>2924</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:33:17,360</StartTime>
+      <Length>3641</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:37:20,600</StartTime>
+      <Length>2606</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Female" NameOfActor="Judy Greer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:38:37,440</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="George Clooney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Descendants">
+      <StartTime>01:38:39,760</StartTime>
+      <Length>1889</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Female" NameOfActor="Judy Greer" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:02:47,920</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="21" Gender="Male" NameOfActor="CheeringGuy" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:08:51,240</StartTime>
+      <Length>1999</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Female" NameOfActor="Laura Linney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:08:53,240</StartTime>
+      <Length>1479</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:09:09,960</StartTime>
+      <Length>2079</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:12:15,160</StartTime>
+      <Length>2679</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Female" NameOfActor="Laura Linney" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:18:09,000</StartTime>
+      <Length>2519</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:29:01,240</StartTime>
+      <Length>2999</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Female" NameOfActor="Shalonne Lee" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:31:41,960</StartTime>
+      <Length>2199</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:39:17,840</StartTime>
+      <Length>1679</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:40:23,160</StartTime>
+      <Length>3039</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="41" Gender="Female" NameOfActor="Laura Linney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:41:18,480</StartTime>
+      <Length>2719</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:47:12,280</StartTime>
+      <Length>2319</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Female" NameOfActor="NanySeminarlady" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>00:51:49,560</StartTime>
+      <Length>1199</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Male" NameOfActor="Chris Evans" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>01:00:46,200</StartTime>
+      <Length>2239</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>01:03:40,280</StartTime>
+      <Length>2679</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>01:13:59,760</StartTime>
+      <Length>2759</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>01:23:35,760</StartTime>
+      <Length>1161</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Female" NameOfActor="Laura Linney" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>01:23:41,120</StartTime>
+      <Length>2879</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NanyDiaries">
+      <StartTime>01:26:33,640</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="21" Gender="Female" NameOfActor="Scarlett Johansson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>00:44:42,200</StartTime>
+      <Length>1001</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="30" Gender="Female" NameOfActor="Saffron Burrows" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>00:46:28,560</StartTime>
+      <Length>3527</Length>
+      <Person AgeOfActor="51" AgeOfCharacter="50" Gender="Male" NameOfActor="Thomas Jane" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>00:47:11,640</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Female" NameOfActor="Jacqueline McKenzie" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>00:57:33,200</StartTime>
+      <Length>4050</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Thomas Jane" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>00:57:37,640</StartTime>
+      <Length>4130</Length>
+      <Person AgeOfActor="51" AgeOfCharacter="50" Gender="Male" NameOfActor="Samuel L. Jackson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>00:58:14,360</StartTime>
+      <Length>1809</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="30" Gender="Male" NameOfActor="Michael Rapaport" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>01:03:40,320</StartTime>
+      <Length>1081</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Female" NameOfActor="Jacqueline McKenzie" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>01:27:24,800</StartTime>
+      <Length>1331</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Thomas Jane" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>01:28:01,400</StartTime>
+      <Length>2128</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Thomas Jane" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DeepBlueSea">
+      <StartTime>01:29:10,320</StartTime>
+      <Length>1604</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="30" Gender="Female" NameOfActor="Saffron Burrows" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:05:48,800</StartTime>
+      <Length>2679</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:06:54,320</StartTime>
+      <Length>1919</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:08:46,120</StartTime>
+      <Length>2079</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:13:05,160</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:21:17,120</StartTime>
+      <Length>3039</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:23:24,880</StartTime>
+      <Length>1599</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:30:29,120</StartTime>
+      <Length>2999</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:33:22,120</StartTime>
+      <Length>2559</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:34:43,400</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:37:16,360</StartTime>
+      <Length>2279</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:41:08,160</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:41:17,920</StartTime>
+      <Length>4559</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:44:11,160</StartTime>
+      <Length>1479</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:45:07,280</StartTime>
+      <Length>3679</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:45:40,160</StartTime>
+      <Length>1719</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:45:41,880</StartTime>
+      <Length>2879</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:51:43,680</StartTime>
+      <Length>3199</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>00:55:42,400</StartTime>
+      <Length>1479</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>01:06:15,240</StartTime>
+      <Length>1959</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>01:11:45,880</StartTime>
+      <Length>1599</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>01:18:23,160</StartTime>
+      <Length>1719</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>01:18:24,880</StartTime>
+      <Length>3199</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>01:19:37,240</StartTime>
+      <Length>2159</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Luke Wilson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AlexEmma">
+      <StartTime>01:27:01,000</StartTime>
+      <Length>4119</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="22" Gender="Female" NameOfActor="Kate Hudson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>00:05:50,480</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="65" Gender="Male" NameOfActor="Elliott Gould" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>00:07:34,640</StartTime>
+      <Length>1889</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Male" NameOfActor="Brad Pitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>00:31:33,720</StartTime>
+      <Length>1729</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="45" Gender="Female" NameOfActor="Ellen Barkin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>00:36:46,520</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="50" Gender="Male" NameOfActor="David Paymer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>00:40:50,280</StartTime>
+      <Length>3368</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Matt Damon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>00:55:43,160</StartTime>
+      <Length>3288</Length>
+      <Person AgeOfActor="67" AgeOfCharacter="65" Gender="Male" NameOfActor="Al Pacino" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>00:57:44,520</StartTime>
+      <Length>1604</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Matt Damon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>01:06:19,400</StartTime>
+      <Length>4244</Length>
+      <Person AgeOfActor="51" AgeOfCharacter="50" Gender="Male" NameOfActor="Matt Damon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>01:09:07,120</StartTime>
+      <Length>4050</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="45" Gender="Female" NameOfActor="Ellen Barkin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>01:21:35,560</StartTime>
+      <Length>1286</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="65" Gender="Male" NameOfActor="Elliott Gould" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>01:27:38,600</StartTime>
+      <Length>2810</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Male" NameOfActor="Don Cheadle" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>01:32:44,600</StartTime>
+      <Length>2162</Length>
+      <Person AgeOfActor="51" AgeOfCharacter="50" Gender="Male" NameOfActor="Bernie Mac" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>01:40:12,360</StartTime>
+      <Length>2446</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="45" Gender="Female" NameOfActor="Ellen Barkin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>01:44:29,160</StartTime>
+      <Length>3766</Length>
+      <Person AgeOfActor="67" AgeOfCharacter="65" Gender="Male" NameOfActor="Al Pacino" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OceansThirteen">
+      <StartTime>01:49:23,560</StartTime>
+      <Length>2048</Length>
+      <Person AgeOfActor="51" AgeOfCharacter="49" Gender="Male" NameOfActor="Andy Garcia" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:01:57,760</StartTime>
+      <Length>1365</Length>
+      <Person AgeOfActor="10" AgeOfCharacter="10" Gender="Male" NameOfActor="JuniorZach" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:02:36,840</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="10" AgeOfCharacter="10" Gender="Male" NameOfActor="JuniorZach" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:02:57,240</StartTime>
+      <Length>1331</Length>
+      <Person AgeOfActor="28" AgeOfCharacter="25" Gender="Male" NameOfActor="Zach Cregger" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:16:02,760</StartTime>
+      <Length>1729</Length>
+      <Person AgeOfActor="28" AgeOfCharacter="25" Gender="Male" NameOfActor="Zach Cregger" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:24:59,400</StartTime>
+      <Length>3800</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Molly Stanton" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:25:19,000</StartTime>
+      <Length>2162</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Male" NameOfActor="Trevor Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:26:16,840</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Male" NameOfActor="Trevor Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:30:21,680</StartTime>
+      <Length>1968</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Male" NameOfActor="Trevor Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:30:42,640</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Male" NameOfActor="Geoff Meed" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:36:09,600</StartTime>
+      <Length>3607</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Male" NameOfActor="Trevor Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:36:48,600</StartTime>
+      <Length>4403</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Male" NameOfActor="Trevor Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:38:58,160</StartTime>
+      <Length>1206</Length>
+      <Person AgeOfActor="28" AgeOfCharacter="25" Gender="Male" NameOfActor="Zach Cregger" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:40:29,240</StartTime>
+      <Length>2367</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Male" NameOfActor="Trevor Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:44:17,200</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="28" AgeOfCharacter="25" Gender="Male" NameOfActor="Zach Cregger" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:44:23,640</StartTime>
+      <Length>3129</Length>
+      <Person AgeOfActor="28" AgeOfCharacter="25" Gender="Male" NameOfActor="Zach Cregger" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MissMarch">
+      <StartTime>00:47:13,360</StartTime>
+      <Length>1411</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Craig Robinson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="PursuitofHappiness">
+      <StartTime>00:19:43,720</StartTime>
+      <Length>3004</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Will Smith" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="PursuitofHappiness">
+      <StartTime>00:23:03,560</StartTime>
+      <Length>4801</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="35" Gender="Female" NameOfActor="Thandie Newton" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="PursuitofHappiness">
+      <StartTime>00:33:45,000</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Will Smith" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="PursuitofHappiness">
+      <StartTime>00:42:12,680</StartTime>
+      <Length>1161</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Will Smith" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="PursuitofHappiness">
+      <StartTime>01:14:19,080</StartTime>
+      <Length>1650</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Will Smith" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="PursuitofHappiness">
+      <StartTime>01:27:31,760</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Will Smith" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ChernobylDiaries">
+      <StartTime>00:02:01,320</StartTime>
+      <Length>2439</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="25" Gender="Male" NameOfActor="Jonathan Sadowski" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ChernobylDiaries">
+      <StartTime>00:02:31,280</StartTime>
+      <Length>3999</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="25" Gender="Male" NameOfActor="Jonathan Sadowski" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ChernobylDiaries">
+      <StartTime>00:31:24,480</StartTime>
+      <Length>2039</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="25" Gender="Male" NameOfActor="Jonathan Sadowski" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ChernobylDiaries">
+      <StartTime>00:33:19,680</StartTime>
+      <Length>1479</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Male" NameOfActor="Jesse McCartney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WrongTurn3">
+      <StartTime>00:04:36,000</StartTime>
+      <Length>2002</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="20" Gender="Male" NameOfActor="BlondeGuy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WrongTurn3">
+      <StartTime>00:23:50,040</StartTime>
+      <Length>2765</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Male" NameOfActor="Tamer Hassan" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WrongTurn3">
+      <StartTime>00:36:38,840</StartTime>
+      <Length>3243</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Male" NameOfActor="Tamer Hassan" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WrongTurn3">
+      <StartTime>00:48:53,480</StartTime>
+      <Length>2048</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="25" Gender="Female" NameOfActor="Janet Montgomery" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WrongTurn3">
+      <StartTime>00:50:40,480</StartTime>
+      <Length>4528</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Female" NameOfActor="Tamer Hassan" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WrongTurn3">
+      <StartTime>01:09:15,080</StartTime>
+      <Length>2241</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="25" Gender="Female" NameOfActor="Janet Montgomery" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WrongTurn3">
+      <StartTime>01:09:24,040</StartTime>
+      <Length>2526</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="25" Gender="Female" NameOfActor="Janet Montgomery" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IAmSam">
+      <StartTime>00:03:11,160</StartTime>
+      <Length>2519</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="35" Gender="Male" NameOfActor="Sean Penn" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IAmSam">
+      <StartTime>00:33:43,120</StartTime>
+      <Length>3239</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="35" Gender="Male" NameOfActor="Sean Penn" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IAmSam">
+      <StartTime>00:39:36,120</StartTime>
+      <Length>3039</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Female" NameOfActor="Michelle Pfeiffer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IAmSam">
+      <StartTime>00:42:35,880</StartTime>
+      <Length>3959</Length>
+      <Person AgeOfActor="8" AgeOfCharacter="8" Gender="Female" NameOfActor="Dakota Fanning" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IAmSam">
+      <StartTime>01:29:21,760</StartTime>
+      <Length>4599</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="35" Gender="Male" NameOfActor="Sean Penn" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IAmSam">
+      <StartTime>01:38:20,200</StartTime>
+      <Length>4562</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Female" NameOfActor="Michelle Pfeiffer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IAmSam">
+      <StartTime>01:38:27,920</StartTime>
+      <Length>4719</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Female" NameOfActor="Michelle Pfeiffer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IAmSam">
+      <StartTime>01:38:44,800</StartTime>
+      <Length>2999</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Female" NameOfActor="Michelle Pfeiffer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IAmSam">
+      <StartTime>01:56:53,680</StartTime>
+      <Length>4599</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="35" Gender="Female" NameOfActor="Laura Dern" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>00:38:45,440</StartTime>
+      <Length>3846</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Black" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>00:42:56,680</StartTime>
+      <Length>2446</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Black" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>00:45:08,680</StartTime>
+      <Length>3163</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Black" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>00:51:53,760</StartTime>
+      <Length>1809</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Female" NameOfActor="Jennifer Jason Leigh" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>00:52:06,720</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Female" NameOfActor="Jennifer Jason Leigh" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>00:54:31,160</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="14" AgeOfCharacter="15" Gender="Female" NameOfActor="Flora Cross" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>01:01:02,200</StartTime>
+      <Length>3447</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Female" NameOfActor="Jennifer Jason Leigh" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>01:04:31,280</StartTime>
+      <Length>3163</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Black" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>01:05:12,120</StartTime>
+      <Length>2367</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Female" NameOfActor="Jennifer Jason Leigh" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>01:10:10,680</StartTime>
+      <Length>3163</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Female" NameOfActor="Jennifer Jason Leigh" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>01:17:52,200</StartTime>
+      <Length>3891</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Black" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>01:18:01,040</StartTime>
+      <Length>2685</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Black" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="MarotAtTheWedding">
+      <StartTime>01:18:49,680</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Black" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="CuriousCaseOfBenjaminButton">
+      <StartTime>01:16:34,360</StartTime>
+      <Length>3049</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="50" Gender="Male" NameOfActor="Brad Pitt" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AndSoonCameDarkness">
+      <StartTime>00:27:39,520</StartTime>
+      <Length>2526</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="22" Gender="Female" NameOfActor="Amber Heard" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AndSoonCameDarkness">
+      <StartTime>00:27:57,160</StartTime>
+      <Length>3340</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="22" Gender="Female" NameOfActor="Amber Heard" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AndSoonCameDarkness">
+      <StartTime>00:28:11,160</StartTime>
+      <Length>2100</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="22" Gender="Female" NameOfActor="Amber Heard" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AndSoonCameDarkness">
+      <StartTime>00:54:45,120</StartTime>
+      <Length>2510</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="22" Gender="Female" NameOfActor="Amber Heard" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AndSoonCameDarkness">
+      <StartTime>00:55:34,800</StartTime>
+      <Length>1650</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="22" Gender="Female" NameOfActor="Amber Heard" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AndSoonCameDarkness">
+      <StartTime>00:56:24,720</StartTime>
+      <Length>3447</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="22" Gender="Female" NameOfActor="Amber Heard" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AndSoonCameDarkness">
+      <StartTime>00:56:29,320</StartTime>
+      <Length>2446</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="22" Gender="Female" NameOfActor="Amber Heard" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="AndSoonCameDarkness">
+      <StartTime>01:07:45,800</StartTime>
+      <Length>1919</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="22" Gender="Female" NameOfActor="Amber Heard" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:07:24,480</StartTime>
+      <Length>3686</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="20" Gender="Female" NameOfActor="Cameron Diaz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:09:45,960</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="20" Gender="Male" NameOfActor="Ben Stiller" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:16:04,560</StartTime>
+      <Length>1001</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="45" Gender="Male" NameOfActor="Steve Sweeney" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:21:23,400</StartTime>
+      <Length>2480</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="25" Gender="Male" NameOfActor="Ben Stiller" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:23:27,480</StartTime>
+      <Length>3129</Length>
+      <Person AgeOfActor="54" AgeOfCharacter="50" Gender="Male" NameOfActor="Jeffrey Tambor" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:28:30,120</StartTime>
+      <Length>1001</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Cameron Diaz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:33:22,280</StartTime>
+      <Length>1809</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="25" Gender="Male" NameOfActor="Ben Stiller" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:42:19,680</StartTime>
+      <Length>2810</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="25" Gender="Male" NameOfActor="Ben Stiller" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:59:37,200</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Matt Dillon" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>00:59:41,880</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Lee Evans" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>01:10:16,120</StartTime>
+      <Length>2526</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Cameron Diaz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>01:11:09,560</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Cameron Diaz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>01:37:36,360</StartTime>
+      <Length>2082</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Lee Evans" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>01:39:59,520</StartTime>
+      <Length>2200</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Cameron Diaz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>01:40:03,120</StartTime>
+      <Length>2300</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="40" Gender="Male" NameOfActor="Chris Elliott" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>01:41:29,160</StartTime>
+      <Length>1001</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Lee Evans" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ThereIsSomethingAboutMary">
+      <StartTime>01:47:09,480</StartTime>
+      <Length>2162</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Cameron Diaz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>00:17:34,840</StartTime>
+      <Length>2002</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Kate Winslet" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>00:19:13,160</StartTime>
+      <Length>1968</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="20" Gender="Female" NameOfActor="Zoe Kazan" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>00:25:25,560</StartTime>
+      <Length>2685</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>00:55:33,800</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:02:51,320</StartTime>
+      <Length>2810</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Kate Winslet" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:02:58,160</StartTime>
+      <Length>1923</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Kate Winslet" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:05:16,320</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Kate Winslet" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:18:09,840</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:21:31,040</StartTime>
+      <Length>3527</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:21:34,720</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:21:36,400</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:24:56,720</StartTime>
+      <Length>1729</Length>
+      <Person AgeOfActor="" AgeOfCharacter="" Gender="Male" NameOfActor="" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:25:28,560</StartTime>
+      <Length>3800</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:27:13,400</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Kate Winslet" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RevolutionaryRoad">
+      <StartTime>01:27:15,000</StartTime>
+      <Length>2082</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Kate Winslet" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="CryingGame">
+      <StartTime>00:11:43,440</StartTime>
+      <Length>4085</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="35" Gender="Female" NameOfActor="Miranda Richardson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="CryingGame">
+      <StartTime>00:14:19,640</StartTime>
+      <Length>2839</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="35" Gender="Male" NameOfActor="Forest Whitaker" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="CryingGame">
+      <StartTime>00:16:29,720</StartTime>
+      <Length>5000</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="35" Gender="Male" NameOfActor="Forest Whitaker" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="CryingGame">
+      <StartTime>00:30:44,960</StartTime>
+      <Length>1968</Length>
+      <Person AgeOfActor="46" AgeOfCharacter="40" Gender="Male" NameOfActor="Stephen Rea" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="CryingGame">
+      <StartTime>00:34:15,240</StartTime>
+      <Length>1525</Length>
+      <Person AgeOfActor="46" AgeOfCharacter="40" Gender="Male" NameOfActor="Stephen Rea" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="CryingGame">
+      <StartTime>00:52:42,000</StartTime>
+      <Length>1799</Length>
+      <Person AgeOfActor="46" AgeOfCharacter="40" Gender="Male" NameOfActor="Stephen Rea" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="CryingGame">
+      <StartTime>01:02:33,480</StartTime>
+      <Length>2639</Length>
+      <Person AgeOfActor="46" AgeOfCharacter="40" Gender="Male" NameOfActor="Stephen Rea" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="CryingGame">
+      <StartTime>01:16:16,600</StartTime>
+      <Length>2606</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Male" NameOfActor="BarTender" Pose="Non-Frontal"/>
+   </Sequence>
+      <Sequence MovieTitle="WomanInBlack">
+      <StartTime>00:20:51,680</StartTime>
+      <Length>2082</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="25" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WomanInBlack">
+      <StartTime>00:33:30,000</StartTime>
+      <Length>3163</Length>
+      <Person AgeOfActor="61" AgeOfCharacter="60" Gender="Male" NameOfActor="Ciarán Hinds" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WomanInBlack">
+      <StartTime>00:54:09,240</StartTime>
+      <Length>2651</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="25" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WomanInBlack">
+      <StartTime>00:59:24,440</StartTime>
+      <Length>1100</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="25" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WomanInBlack">
+      <StartTime>01:22:56,040</StartTime>
+      <Length>1331</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="25" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WomanInBlack">
+      <StartTime>01:22:57,440</StartTime>
+      <Length>1240</Length>
+      <Person AgeOfActor="5" AgeOfCharacter="5" Gender="Male" NameOfActor="LilBoy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="FrostNixon">
+      <StartTime>00:09:47,327</StartTime>
+      <Length>1923</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="40" Gender="Male" NameOfActor="Micheal Sheen" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="FrostNixon">
+      <StartTime>00:17:48,527</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Happy Person" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="FrostNixon">
+      <StartTime>00:32:10,247</StartTime>
+      <Length>2606</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="35" Gender="Male" NameOfActor="Sam Rockwell" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="FrostNixon">
+      <StartTime>00:39:21,207</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="48" AgeOfCharacter="50" Gender="Male" NameOfActor="Oliver Platt" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="FrostNixon">
+      <StartTime>00:44:38,447</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="65" Gender="Male" NameOfActor="Frank Lagella" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="FrostNixon">
+      <StartTime>00:49:10,007</StartTime>
+      <Length>1206</Length>
+      <Person AgeOfActor="48" AgeOfCharacter="50" Gender="Male" NameOfActor="Oliver Platt" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="FrostNixon">
+      <StartTime>01:20:48,128</StartTime>
+      <Length>3846</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="65" Gender="Male" NameOfActor="Frank Lagella" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="FrostNixon">
+      <StartTime>01:29:48,087</StartTime>
+      <Length>1800</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="65" Gender="Male" NameOfActor="Frank Lagella" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Serendipity">
+      <StartTime>00:05:31,367</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="John Cusack" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Serendipity">
+      <StartTime>00:22:15,207</StartTime>
+      <Length>1900</Length>
+      <Person AgeOfActor="28" AgeOfCharacter="25" Gender="Female" NameOfActor="Kate Beckinsale" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Serendipity">
+      <StartTime>01:05:53,167</StartTime>
+      <Length>2128</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="30" Gender="Male" NameOfActor="Jeremy Piven" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>00:09:01,567</StartTime>
+      <Length>1240</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="65" Gender="Male" NameOfActor="Steve Martin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>00:13:45,207</StartTime>
+      <Length>1411</Length>
+      <Person AgeOfActor="60" AgeOfCharacter="50" Gender="Female" NameOfActor="Meryl Streep" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>00:26:40,847</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="65" Gender="Male" NameOfActor="Steve Martin" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>00:31:42,087</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="Alec Baldwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>00:35:39,527</StartTime>
+      <Length>3209</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Female" NameOfActor="Meryl Streep" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>00:37:22,087</StartTime>
+      <Length>2241</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Female" NameOfActor="Friend 4" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>00:44:07,487</StartTime>
+      <Length>1809</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="Alec Baldwin" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>01:03:10,407</StartTime>
+      <Length>2606</Length>
+      <Person AgeOfActor="60" AgeOfCharacter="50" Gender="Female" NameOfActor="Meryl Streep" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>01:04:04,607</StartTime>
+      <Length>1047</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="Alec Baldwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>01:10:58,967</StartTime>
+      <Length>1331</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Male" NameOfActor="Man" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>01:13:40,288</StartTime>
+      <Length>1684</Length>
+      <Person AgeOfActor="60" AgeOfCharacter="50" Gender="Female" NameOfActor="Meryl Streep" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>01:15:26,007</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="65" Gender="Male" NameOfActor="Steve Martin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>01:31:52,487</StartTime>
+      <Length>1206</Length>
+      <Person AgeOfActor="60" AgeOfCharacter="50" Gender="Female" NameOfActor="Meryl Streep" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>01:33:27,047</StartTime>
+      <Length>3527</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Male" NameOfActor="John Krasinski" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>01:36:07,568</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="Alec Baldwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ItsComplicated">
+      <StartTime>01:44:03,887</StartTime>
+      <Length>4210</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="65" Gender="Male" NameOfActor="Steve Martin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Half_Blood_Prince">
+      <StartTime>00:15:22,614</StartTime>
+      <Length>3561</Length>
+      <Person AgeOfActor="63" AgeOfCharacter="50" Gender="Male" NameOfActor="Alan Rickman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Half_Blood_Prince">
+      <StartTime>00:39:34,614</StartTime>
+      <Length>3402</Length>
+      <Person AgeOfActor="12" AgeOfCharacter="11" Gender="Male" NameOfActor="Hero Fiennes-Tiffin" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Half_Blood_Prince">
+      <StartTime>00:44:18,334</StartTime>
+      <Length>1650</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="16" Gender="Female" NameOfActor="Emma Watson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Half_Blood_Prince">
+      <StartTime>00:44:24,374</StartTime>
+      <Length>1206</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="16" Gender="Female" NameOfActor="Emma Watson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Half_Blood_Prince">
+      <StartTime>00:44:41,414</StartTime>
+      <Length>2002</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="16" Gender="Male" NameOfActor="Rupert Grint" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Half_Blood_Prince">
+      <StartTime>00:00:29,301</StartTime>
+      <Length>2367</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:10:30,334</StartTime>
+      <Length>3766</Length>
+      <Person AgeOfActor="12" AgeOfCharacter="11" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:15:49,894</StartTime>
+      <Length>1684</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Female" NameOfActor="Fiona Shaw" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:21:48,094</StartTime>
+      <Length>1000</Length>
+      <Person AgeOfActor="51" AgeOfCharacter="50" Gender="Male" NameOfActor="Robbie Coltrane" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:29:13,374</StartTime>
+      <Length>3482</Length>
+      <Person AgeOfActor="12" AgeOfCharacter="11" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:33:14,534</StartTime>
+      <Length>1968</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Rupert Grint" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:34:40,294</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:42:42,574</StartTime>
+      <Length>4801</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Rupert Grint" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:42:48,054</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Rupert Grint" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:43:31,934</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="12" AgeOfCharacter="11" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:43:55,094</StartTime>
+      <Length>1889</Length>
+      <Person AgeOfActor="12" AgeOfCharacter="11" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>01:05:43,574</StartTime>
+      <Length>2120</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Male" NameOfActor="Ian Hart" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_PhilosopherStone">
+      <StartTime>00:03:17,144</StartTime>
+      <Length>3641</Length>
+      <Person AgeOfActor="51" AgeOfCharacter="45" Gender="Male" NameOfActor="Robbie Coltrane" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:03:31,374</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="70" Gender="Male" NameOfActor="Old Man" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:03:40,094</StartTime>
+      <Length>1604</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:03:59,934</StartTime>
+      <Length>3209</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:06:43,974</StartTime>
+      <Length>1809</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:06:52,814</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:18:09,774</StartTime>
+      <Length>1400</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="18" Gender="Male" NameOfActor="Stanislav Ianevski" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:23:38,414</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="Brendan Gleeson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:26:13,894</StartTime>
+      <Length>2048</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="Brendan Gleeson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:28:18,854</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:33:14,854</StartTime>
+      <Length>2446</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:40:34,294</StartTime>
+      <Length>1729</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:45:45,894</StartTime>
+      <Length>3561</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:48:05,814</StartTime>
+      <Length>1411</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:48:50,214</StartTime>
+      <Length>2050</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>00:49:24,334</StartTime>
+      <Length>680</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Tom Felton" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>01:00:28,014</StartTime>
+      <Length>1684</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>01:02:44,174</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="14" AgeOfCharacter="14" Gender="Female" NameOfActor="Emma Watson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_GobletOfFire">
+      <StartTime>01:07:02,094</StartTime>
+      <Length>2241</Length>
+      <Person AgeOfActor="61" AgeOfCharacter="55" Gender="Female" NameOfActor="Frances de la Tour" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouveGotAMail">
+      <StartTime>00:04:44,054</StartTime>
+      <Length>1729</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="40" Gender="Male" NameOfActor="Tom Hanks" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouveGotAMail">
+      <StartTime>00:16:48,934</StartTime>
+      <Length>1240</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Male" NameOfActor="Enzo Angileri" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouveGotAMail">
+      <StartTime>00:38:15,934</StartTime>
+      <Length>4289</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="30" Gender="Female" NameOfActor="Meg Ryan" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouveGotAMail">
+      <StartTime>00:39:07,774</StartTime>
+      <Length>1206</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="40" Gender="Male" NameOfActor="Tom Hanks" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouveGotAMail">
+      <StartTime>00:46:19,614</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="40" Gender="Male" NameOfActor="Tom Hanks" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouveGotAMail">
+      <StartTime>00:46:30,654</StartTime>
+      <Length>1206</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="40" Gender="Male" NameOfActor="Tom Hanks" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouveGotAMail">
+      <StartTime>00:48:18,054</StartTime>
+      <Length>1161</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="40" Gender="Male" NameOfActor="Tom Hanks" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_ChambersOfSecret">
+      <StartTime>00:04:55,174</StartTime>
+      <Length>4961</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="12" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_ChambersOfSecret">
+      <StartTime>00:07:46,734</StartTime>
+      <Length>4847</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="12" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_ChambersOfSecret">
+      <StartTime>00:23:15,574</StartTime>
+      <Length>3163</Length>
+      <Person AgeOfActor="14" AgeOfCharacter="12" Gender="Male" NameOfActor="Rupert Grint" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_ChambersOfSecret">
+      <StartTime>00:24:14,574</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="14" AgeOfCharacter="12" Gender="Male" NameOfActor="Rupert Grint" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_ChambersOfSecret">
+      <StartTime>00:25:18,734</StartTime>
+      <Length>1161</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="12" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_ChambersOfSecret">
+      <StartTime>00:33:16,894</StartTime>
+      <Length>600</Length>
+      <Person AgeOfActor="16" AgeOfCharacter="12" Gender="Male" NameOfActor="Rupert Grint" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_ChambersOfSecret">
+      <StartTime>00:34:46,574</StartTime>
+      <Length>2000</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="40" Gender="Male" NameOfActor="Kenneth Charles" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_ChambersOfSecret">
+      <StartTime>00:48:50,694</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="68" AgeOfCharacter="65" Gender="Female" NameOfActor="Maggie Smith" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:04:27,294</StartTime>
+      <Length>1365</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="20" Gender="Female" NameOfActor="Emily Hunt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:04:50,454</StartTime>
+      <Length>2321</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="24" Gender="Female" NameOfActor="Anne Hathaway" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:14:14,094</StartTime>
+      <Length>2082</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="20" Gender="Female" NameOfActor="Emily Hunt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:23:38,014</StartTime>
+      <Length>3891</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="24" Gender="Female" NameOfActor="Anne Hathaway" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:25:16,934</StartTime>
+      <Length>640</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="24" Gender="Female" NameOfActor="Anne Hathaway" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:26:29,654</StartTime>
+      <Length>900</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="24" Gender="Female" NameOfActor="Anne Hathaway" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:29:05,934</StartTime>
+      <Length>2162</Length>
+      <Person AgeOfActor="57" AgeOfCharacter="55" Gender="Female" NameOfActor="Meryl Streep" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:33:49,414</StartTime>
+      <Length>2162</Length>
+      <Person AgeOfActor="46" AgeOfCharacter="45" Gender="Male" NameOfActor="Stanley Tucci" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:37:23,054</StartTime>
+      <Length>2810</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Female" NameOfActor="Tracie Thoms" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:37:29,254</StartTime>
+      <Length>4688</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Female" NameOfActor="Tracie Thoms" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:46:43,374</StartTime>
+      <Length>3049</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="20" Gender="Female" NameOfActor="Emily Hunt" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:47:23,374</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="57" AgeOfCharacter="55" Gender="Female" NameOfActor="Meryl Streep" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilWearsPrada">
+      <StartTime>00:02:52,168</StartTime>
+      <Length>4289</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="24" Gender="Female" NameOfActor="Anne Hathaway" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotterAndOrderOPhoenix">
+      <StartTime>00:22:06,014</StartTime>
+      <Length>3288</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Female" NameOfActor="Old Witch" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotterAndOrderOPhoenix">
+      <StartTime>00:26:14,174</StartTime>
+      <Length>1923</Length>
+      <Person AgeOfActor="17" AgeOfCharacter="16" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotterAndOrderOPhoenix">
+      <StartTime>00:44:25,334</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="51" AgeOfCharacter="50" Gender="Female" NameOfActor="Imelda Staunton" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotterAndOrderOPhoenix">
+      <StartTime>01:02:47,814</StartTime>
+      <Length>2606</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="16" Gender="Female" NameOfActor="Katie Leung" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotterAndOrderOPhoenix">
+      <StartTime>01:06:20,475</StartTime>
+      <Length>1161</Length>
+      <Person AgeOfActor="17" AgeOfCharacter="16" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotterAndOrderOPhoenix">
+      <StartTime>01:52:56,413</StartTime>
+      <Length>3607</Length>
+      <Person AgeOfActor="17" AgeOfCharacter="16" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>00:01:02,534</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="10" AgeOfCharacter="10" Gender="Male" NameOfActor="Little Black Boy" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>00:01:41,494</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>00:01:50,854</StartTime>
+      <Length>1650</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>00:04:27,934</StartTime>
+      <Length>2321</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>00:04:51,774</StartTime>
+      <Length>2082</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>00:26:01,134</StartTime>
+      <Length>1604</Length>
+      <Person AgeOfActor="46" AgeOfCharacter="35" Gender="Male" NameOfActor="Bradley Whitford" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>00:27:23,534</StartTime>
+      <Length>3243</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:01:56,083</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Female" NameOfActor="Charlie Ray" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:02:24,243</StartTime>
+      <Length>3641</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:02:58,723</StartTime>
+      <Length>1286</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Female" NameOfActor="Charlie Ray" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:03:00,163</StartTime>
+      <Length>2844</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Female" NameOfActor="Charlie Ray" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:04:38,843</StartTime>
+      <Length>2321</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:07:30,723</StartTime>
+      <Length>4608</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:17:20,723</StartTime>
+      <Length>1889</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:17:30,883</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Female" NameOfActor="Charlie Ray" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:17:43,763</StartTime>
+      <Length>4847</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Female" NameOfActor="Charlie Ray" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:17:56,043</StartTime>
+      <Length>3209</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Female" NameOfActor="Charlie Ray" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LittleManhattan">
+      <StartTime>01:20:19,363</StartTime>
+      <Length>2480</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="11" Gender="Male" NameOfActor="Josh Hutcherson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:11:14,600</StartTime>
+      <Length>800</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:21:44,977</StartTime>
+      <Length>1001</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:22:52,017</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:23:00,417</StartTime>
+      <Length>1525</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:23:02,057</StartTime>
+      <Length>1126</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:31:50,857</StartTime>
+      <Length>1500</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Female" NameOfActor="Mila Kunis" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:34:03,857</StartTime>
+      <Length>1001</Length>
+      <Person AgeOfActor="39" AgeOfCharacter="35" Gender="Female" NameOfActor="Winona Ryder" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:51:59,337</StartTime>
+      <Length>900</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:52:07,737</StartTime>
+      <Length>900</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>00:59:13,697</StartTime>
+      <Length>1240</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>01:01:02,537</StartTime>
+      <Length>3209</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>01:01:14,657</StartTime>
+      <Length>2526</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>01:01:28,697</StartTime>
+      <Length>1047</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>01:05:19,417</StartTime>
+      <Length>2100</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>01:10:18,537</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Female" NameOfActor="Mila Kunis" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>01:14:41,497</StartTime>
+      <Length>1000</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>01:16:13,697</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>01:29:43,150</StartTime>
+      <Length>600</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="BlackSwan">
+      <StartTime>01:30:16,270</StartTime>
+      <Length>1365</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Female" NameOfActor="Natalie Portman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>00:22:49,887</StartTime>
+      <Length>1411</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="25" Gender="Male" NameOfActor="Armie Hammer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>00:37:15,767</StartTime>
+      <Length>1126</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Male" NameOfActor="Max Minghella" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>00:39:48,807</StartTime>
+      <Length>3004</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Male" NameOfActor="Max Minghella" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>01:23:36,688</StartTime>
+      <Length>2002</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="22" Gender="Male" NameOfActor="Armie Hammer" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>01:29:17,728</StartTime>
+      <Length>3766</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="20" Gender="Male" NameOfActor="Andrew Garfield" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>01:32:24,647</StartTime>
+      <Length>1081</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="20" Gender="Male" NameOfActor="Jesse Eisenberg" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>01:38:36,768</StartTime>
+      <Length>1126</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="20" Gender="Male" NameOfActor="Andrew Garfield" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>01:38:47,328</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="20" Gender="Male" NameOfActor="Andrew Garfield" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>01:39:46,567</StartTime>
+      <Length>2200</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="20" Gender="Male" NameOfActor="Andrew Garfield" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>01:39:49,200</StartTime>
+      <Length>1400</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="20" Gender="Male" NameOfActor="Jesse Eisenberg" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SocialNetwork">
+      <StartTime>01:41:40,967</StartTime>
+      <Length>4528</Length>
+      <Person AgeOfActor="29" AgeOfCharacter="25" Gender="Male" NameOfActor="Justin Timberlake" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="KingsSpeech">
+      <StartTime>00:18:19,890</StartTime>
+      <Length>1600</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="41" Gender="Male" NameOfActor="KingsSpeech" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="KingsSpeech">
+      <StartTime>00:30:12,143</StartTime>
+      <Length>2700</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="41" Gender="Male" NameOfActor="KingsSpeech" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="KingsSpeech">
+      <StartTime>00:34:23,394</StartTime>
+      <Length>1334</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="41" Gender="Male" NameOfActor="KingsSpeech" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="KingsSpeech">
+      <StartTime>00:52:31,565</StartTime>
+      <Length>4253</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="41" Gender="Male" NameOfActor="KingsSpeech" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="KingsSpeech">
+      <StartTime>00:52:39,072</StartTime>
+      <Length>4921</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="41" Gender="Male" NameOfActor="KingsSpeech" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="KingsSpeech">
+      <StartTime>01:02:06,973</StartTime>
+      <Length>2668</Length>
+      <Person AgeOfActor="59" AgeOfCharacter="50" Gender="Male" NameOfActor="Geoffrey Rush" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="KingsSpeech">
+      <StartTime>01:06:58,723</StartTime>
+      <Length>2543</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="41" Gender="Male" NameOfActor="Colin Firth" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IThinkILoveMyWife">
+      <StartTime>00:18:07,000</StartTime>
+      <Length>3500</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Female" NameOfActor="Kerry Washington" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IThinkILoveMyWife">
+      <StartTime>00:34:20,687</StartTime>
+      <Length>4449</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="35" Gender="Male" NameOfActor="Chris Rock" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IThinkILoveMyWife">
+      <StartTime>00:53:32,407</StartTime>
+      <Length>5643</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="35" Gender="Male" NameOfActor="Chris Rock" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IThinkILoveMyWife">
+      <StartTime>00:57:18,367</StartTime>
+      <Length>4244</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="35" Gender="Male" NameOfActor="Chris Rock" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IThinkILoveMyWife">
+      <StartTime>00:59:23,627</StartTime>
+      <Length>1500</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Female" NameOfActor="Gina Torres" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IThinkILoveMyWife">
+      <StartTime>01:02:23,767</StartTime>
+      <Length>5245</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Female" NameOfActor="Gina Torres" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IThinkILoveMyWife">
+      <StartTime>01:08:39,487</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Female" NameOfActor="Gina Torres" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IThinkILoveMyWife">
+      <StartTime>01:09:42,127</StartTime>
+      <Length>1100</Length>
+      <Person AgeOfActor="42" AgeOfCharacter="35" Gender="Female" NameOfActor="Chris Rock" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="IThinkILoveMyWife">
+      <StartTime>01:23:25,488</StartTime>
+      <Length>2048</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Female" NameOfActor="Gina Torres" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OneFlewOverCuckooNest">
+      <StartTime>00:18:21,420</StartTime>
+      <Length>450</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="50" Gender="Male" NameOfActor="Sydney Lassick" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OneFlewOverCuckooNest">
+      <StartTime>00:20:20,680</StartTime>
+      <Length>1020</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="50" Gender="Male" NameOfActor="Sydney Lassick" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OneFlewOverCuckooNest">
+      <StartTime>00:32:56,320</StartTime>
+      <Length>1206</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Nicholson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OneFlewOverCuckooNest">
+      <StartTime>00:41:57,440</StartTime>
+      <Length>1525</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Nicholson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OneFlewOverCuckooNest">
+      <StartTime>00:45:19,160</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Nicholson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OneFlewOverCuckooNest">
+      <StartTime>01:14:57,120</StartTime>
+      <Length>2000</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="50" Gender="Male" NameOfActor="Sydney Lassick" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OneFlewOverCuckooNest">
+      <StartTime>01:15:00,040</StartTime>
+      <Length>3209</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="50" Gender="Male" NameOfActor="Sydney Lassick" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OneFlewOverCuckooNest">
+      <StartTime>01:36:10,680</StartTime>
+      <Length>1604</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="35" Gender="Male" NameOfActor="BlackWardBoy" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="OneFlewOverCuckooNest">
+      <StartTime>01:53:37,240</StartTime>
+      <Length>1331</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Jack Nicholson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="PrettyInPink">
+      <StartTime>00:51:53,760</StartTime>
+      <Length>1200</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="20" Gender="Male" NameOfActor="Andrew McCarthy" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DumbAndDumberer">
+      <StartTime>00:05:10,760</StartTime>
+      <Length>2321</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Male" NameOfActor="Derek Richardson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DumbAndDumberer">
+      <StartTime>00:10:55,020</StartTime>
+      <Length>1220</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="20" Gender="Female" NameOfActor="Amy Davidson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DumbAndDumberer">
+      <StartTime>00:26:39,600</StartTime>
+      <Length>1889</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="35" Gender="Male" NameOfActor="ShopKeeper" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DumbAndDumberer">
+      <StartTime>00:34:39,750</StartTime>
+      <Length>1950</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Male" NameOfActor="Derek Richardson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DumbAndDumberer">
+      <StartTime>00:38:39,880</StartTime>
+      <Length>1729</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Male" NameOfActor="Derek Richardson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DumbAndDumberer">
+      <StartTime>01:16:03,080</StartTime>
+      <Length>900</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Male" NameOfActor="Eric Christian Olsen" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DumbAndDumberer">
+      <StartTime>01:16:03,980</StartTime>
+      <Length>320</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Male" NameOfActor="Eric Christian Olsen" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>00:04:29,620</StartTime>
+      <Length>1050</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>00:11:13,440</StartTime>
+      <Length>700</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>00:20:21,400</StartTime>
+      <Length>1800</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="15" Gender="Male" NameOfActor="Rupert Grint" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>00:22:41,000</StartTime>
+      <Length>2128</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>00:47:22,480</StartTime>
+      <Length>2367</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Female" NameOfActor="PaintingLady" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>01:02:26,800</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>01:10:29,550</StartTime>
+      <Length>3750</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="15" Gender="Male" NameOfActor="Rupert Grint" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>01:13:26,080</StartTime>
+      <Length>2446</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="63" Gender="Male" NameOfActor="Alan Rickman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>01:24:30,040</StartTime>
+      <Length>1050</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="15" Gender="Male" NameOfActor="Rupert Grint" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>01:25:54,740</StartTime>
+      <Length>1150</Length>
+      <Person AgeOfActor="13" AgeOfCharacter="14" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Prisoners_Of_Azkaban">
+      <StartTime>01:28:30,960</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="46" AgeOfCharacter="45" Gender="Male" NameOfActor="Gary Oldman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Town">
+      <StartTime>00:13:05,880</StartTime>
+      <Length>1047</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Ben Affleck" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Town">
+      <StartTime>00:27:12,120</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Ben Affleck" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Town">
+      <StartTime>01:08:05,120</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Ben Affleck" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Town">
+      <StartTime>01:08:06,840</StartTime>
+      <Length>3163</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Ben Affleck" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Town">
+      <StartTime>01:15:49,760</StartTime>
+      <Length>1286</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Ben Affleck" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Terminal">
+      <StartTime>00:06:20,800</StartTime>
+      <Length>2685</Length>
+      <Person AgeOfActor="48" AgeOfCharacter="50" Gender="Male" NameOfActor="Tom Hanks" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Terminal">
+      <StartTime>00:20:20,400</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Zoe Saldana" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Terminal">
+      <StartTime>00:47:42,120</StartTime>
+      <Length>4642</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Female" NameOfActor="Catherine Zeta-Jones" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Terminal">
+      <StartTime>00:49:49,960</StartTime>
+      <Length>1240</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Female" NameOfActor="Catherine Zeta-Jones" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Terminal">
+      <StartTime>01:54:07,880</StartTime>
+      <Length>5000</Length>
+      <Person AgeOfActor="48" AgeOfCharacter="50" Gender="Male" NameOfActor="Tom Hanks" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>00:04:52,240</StartTime>
+      <Length>3288</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>00:05:06,080</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>00:06:45,280</StartTime>
+      <Length>4085</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>00:08:52,880</StartTime>
+      <Length>5325</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>00:28:02,360</StartTime>
+      <Length>3641</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>00:37:14,360</StartTime>
+      <Length>4005</Length>
+      <Person AgeOfActor="76" AgeOfCharacter="75" Gender="Female" NameOfActor="Maggie Smith" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>01:06:05,600</StartTime>
+      <Length>3607</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="60" Gender="Male" NameOfActor="Alan Rickman" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>01:07:27,800</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="60" Gender="Male" NameOfActor="Alan Rickman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>01:08:05,360</StartTime>
+      <Length>2651</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="60" Gender="Male" NameOfActor="Alan Rickman" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>01:08:45,040</StartTime>
+      <Length>2651</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>01:09:32,520</StartTime>
+      <Length>2526</Length>
+      <Person AgeOfActor="22" AgeOfCharacter="18" Gender="Male" NameOfActor="Rupert Grint" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>01:14:37,680</StartTime>
+      <Length>4324</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="60" Gender="Male" NameOfActor="Alan Rickman" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_2">
+      <StartTime>01:39:25,480</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:03:26,680</StartTime>
+      <Length>1000</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:04:56,960</StartTime>
+      <Length>3000</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Male" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:05:13,320</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:19:05,680</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:25:22,600</StartTime>
+      <Length>1081</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:31:40,160</StartTime>
+      <Length>3209</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:32:10,880</StartTime>
+      <Length>4483</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:36:37,840</StartTime>
+      <Length>2000</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:45:40,360</StartTime>
+      <Length>1365</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:49:51,200</StartTime>
+      <Length>2000</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Female" NameOfActor="John Krasinski" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>00:52:50,600</StartTime>
+      <Length>2480</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:04:01,800</StartTime>
+      <Length>1365</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Colin Egglesfield" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:04:31,760</StartTime>
+      <Length>2002</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:12:30,520</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Female" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:15:06,440</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:21:35,680</StartTime>
+      <Length>3288</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:23:47,000</StartTime>
+      <Length>3850</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:29:04,560</StartTime>
+      <Length>5882</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="35" Gender="Male" NameOfActor="Colin Egglesfield" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:34:37,680</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:39:25,520</StartTime>
+      <Length>3368</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Female" NameOfActor="Kate Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="SomethingBorrowed">
+      <StartTime>01:41:03,760</StartTime>
+      <Length>2446</Length>
+      <Person AgeOfActor="33" AgeOfCharacter="30" Gender="Female" NameOfActor="Ginnifer Goodwin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:00:59,880</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Male" NameOfActor="Jon Hamm" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:05:05,440</StartTime>
+      <Length>2651</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="35" Gender="Male" NameOfActor="Instructor" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:05:19,240</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="35" Gender="Male" NameOfActor="Instructor" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:06:33,160</StartTime>
+      <Length>1411</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="40" Gender="Female" NameOfActor="Maya Rudolph" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:12:55,040</StartTime>
+      <Length>2200</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:13:35,200</StartTime>
+      <Length>1809</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:16:04,640</StartTime>
+      <Length>1331</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:19:54,560</StartTime>
+      <Length>2606</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Female" NameOfActor="Rose Byrne" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:36:05,560</StartTime>
+      <Length>1020</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:43:29,400</StartTime>
+      <Length>900</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Female" NameOfActor="Melissa McCarthy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:45:13,880</StartTime>
+      <Length>1604</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="40" Gender="Male" NameOfActor="Maya Rudolph" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>00:45:23,000</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:01:23,320</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Female" NameOfActor="Rose Byrne" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:13:04,200</StartTime>
+      <Length>1650</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:13:46,520</StartTime>
+      <Length>4200</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:20:24,040</StartTime>
+      <Length>1161</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Female" NameOfActor="Melissa McCarthy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:21:01,720</StartTime>
+      <Length>1206</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:23:17,840</StartTime>
+      <Length>840</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:23:32,520</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="40" Gender="Female" NameOfActor="Maya Rudolph" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:24:04,000</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="40" Gender="Female" NameOfActor="Maya Rudolph" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:24:21,760</StartTime>
+      <Length>920</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="40" Gender="Female" NameOfActor="Maya Rudolph" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:25:59,640</StartTime>
+      <Length>1684</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Chris O'Dowd" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:27:26,680</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Male" NameOfActor="Jon Hamm" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:29:49,160</StartTime>
+      <Length>2082</Length>
+      <Person AgeOfActor="37" AgeOfCharacter="35" Gender="Female" NameOfActor="Kristen Wiig" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:44:27,000</StartTime>
+      <Length>2765</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="40" Gender="Female" NameOfActor="Maya Rudolph" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:45:25,280</StartTime>
+      <Length>1729</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="40" Gender="Female" NameOfActor="Maya Rudolph" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:46:11,480</StartTime>
+      <Length>2526</Length>
+      <Person AgeOfActor="38" AgeOfCharacter="40" Gender="Female" NameOfActor="Maya Rudolph" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Bridesmaids">
+      <StartTime>01:51:43,720</StartTime>
+      <Length>1604</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Female" NameOfActor="Rose Byrne" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DecemberBoys">
+      <StartTime>00:07:46,480</StartTime>
+      <Length>3368</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="15" Gender="Male" NameOfActor="Lee Cormie" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DecemberBoys">
+      <StartTime>00:17:19,520</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="18" AgeOfCharacter="15" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DecemberBoys">
+      <StartTime>00:19:41,000</StartTime>
+      <Length>1800</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="15" Gender="Male" NameOfActor="Lee Cormie" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DecemberBoys">
+      <StartTime>00:20:06,160</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="18" AgeOfCharacter="15" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DecemberBoys">
+      <StartTime>00:26:04,920</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="15" Gender="Female" NameOfActor="Teresa Palmer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DecemberBoys">
+      <StartTime>00:28:52,720</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="15" AgeOfCharacter="15" Gender="Male" NameOfActor="Lee Cormie" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DecemberBoys">
+      <StartTime>00:36:18,000</StartTime>
+      <Length>2900</Length>
+      <Person AgeOfActor="60" AgeOfCharacter="60" Gender="Male" NameOfActor="OldFisherman" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DecemberBoys">
+      <StartTime>00:37:08,960</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Female" NameOfActor="Victoria Hill" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DecemberBoys">
+      <StartTime>00:41:41,880</StartTime>
+      <Length>3004</Length>
+      <Person AgeOfActor="55" AgeOfCharacter="55" Gender="Male" NameOfActor="FatherPtty" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:00:46,280</StartTime>
+      <Length>3800</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Male" NameOfActor="Minister" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:02:07,560</StartTime>
+      <Length>1650</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="18" Gender="Female" NameOfActor="Emma Watson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:02:17,360</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="18" Gender="Female" NameOfActor="Emma Watson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:14:25,880</StartTime>
+      <Length>2844</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="Brendan Gleeson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:16:10,960</StartTime>
+      <Length>1331</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:18:46,440</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:29:27,520</StartTime>
+      <Length>5211</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Male" NameOfActor="Minister" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:33:07,280</StartTime>
+      <Length>2700</Length>
+      <Person AgeOfActor="75" AgeOfCharacter="75" Gender="Male" NameOfActor="VeryOldWitch" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:33:15,480</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:42:45,040</StartTime>
+      <Length>1650</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:43:11,280</StartTime>
+      <Length>2241</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:43:13,680</StartTime>
+      <Length>1161</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:45:52,400</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>00:46:07,000</StartTime>
+      <Length>2100</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="18" Gender="Female" NameOfActor="Emma Watson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>01:02:05,440</StartTime>
+      <Length>2924</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="18" Gender="Female" NameOfActor="Emma Watson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>01:04:19,920</StartTime>
+      <Length>3607</Length>
+      <Person AgeOfActor="22" AgeOfCharacter="18" Gender="Male" NameOfActor="Rupert Grint" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>01:10:04,800</StartTime>
+      <Length>3721</Length>
+      <Person AgeOfActor="22" AgeOfCharacter="18" Gender="Male" NameOfActor="Rupert Grint" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>01:10:34,640</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="22" AgeOfCharacter="18" Gender="Male" NameOfActor="Rupert Grint" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>01:13:45,040</StartTime>
+      <Length>2526</Length>
+      <Person AgeOfActor="21" AgeOfCharacter="18" Gender="Male" NameOfActor="Daniel Radcliffe" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>01:14:35,400</StartTime>
+      <Length>1050</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="18" Gender="Female" NameOfActor="Emma Watson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>01:14:50,480</StartTime>
+      <Length>2321</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="18" Gender="Female" NameOfActor="Emma Watson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HarryPotter_Deathly_Hallows_1">
+      <StartTime>01:36:45,920</StartTime>
+      <Length>4801</Length>
+      <Person AgeOfActor="22" AgeOfCharacter="18" Gender="Male" NameOfActor="Rupert Grint" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="JennifersBody">
+      <StartTime>00:08:12,598</StartTime>
+      <Length>1200</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="18" Gender="Female" NameOfActor="Amanda Seyfried" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="JennifersBody">
+      <StartTime>00:17:59,754</StartTime>
+      <Length>4484</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="18" Gender="Female" NameOfActor="Amanda Seyfried" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="JennifersBody">
+      <StartTime>00:19:47,263</StartTime>
+      <Length>2003</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="18" Gender="Female" NameOfActor="Amanda Seyfried" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="JennifersBody">
+      <StartTime>00:24:10,291</StartTime>
+      <Length>1921</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="18" Gender="Female" NameOfActor="Amanda Seyfried" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="JennifersBody">
+      <StartTime>00:32:36,644</StartTime>
+      <Length>1922</Length>
+      <Person AgeOfActor="54" AgeOfCharacter="50" Gender="Male" NameOfActor="J.K. Simmons" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="JennifersBody">
+      <StartTime>00:58:41,913</StartTime>
+      <Length>1921</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="18" Gender="Male" NameOfActor="Megan Fox" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="JennifersBody">
+      <StartTime>01:02:42,118</StartTime>
+      <Length>1920</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="18" Gender="Female" NameOfActor="Amanda Seyfried" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="JennifersBody">
+      <StartTime>01:16:31,117</StartTime>
+      <Length>2204</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="18" Gender="Female" NameOfActor="Amanda Seyfried" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Halloween">
+      <StartTime>01:26:33,640</StartTime>
+      <Length>3199</Length>
+      <Person AgeOfActor="10" AgeOfCharacter="10" Gender="Female" NameOfActor="Jenny Gregg Stewart" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="GhostShip">
+      <StartTime>01:17:58,680</StartTime>
+      <Length>3607</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Female" NameOfActor="Julianna Margulies" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Airheads">
+      <StartTime>00:05:19,240</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Male" NameOfActor="Brendan Fraser" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RapturePalooza">
+      <StartTime>00:05:10,760</StartTime>
+      <Length>4319</Length>
+      <Person AgeOfActor="46" AgeOfCharacter="45" Gender="Female" NameOfActor="Ana Gasteyer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="RapturePalooza">
+      <StartTime>00:35:56,960</StartTime>
+      <Length>2639</Length>
+      <Person AgeOfActor="46" AgeOfCharacter="45" Gender="Female" NameOfActor="Ana Gasteyer" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:03:53,800</StartTime>
+      <Length>3399</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="Justin Long" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:06:08,400</StartTime>
+      <Length>1879</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Female" NameOfActor="Sienna Miller" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:11:38,040</StartTime>
+      <Length>1879</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Evan Rachel Wood" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:15:48,120</StartTime>
+      <Length>2999</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="Justin Long" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:18:46,360</StartTime>
+      <Length>3199</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="45" Gender="Male" NameOfActor="Sam Rockwell" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:27:30,440</StartTime>
+      <Length>2359</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Evan Rachel Wood" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:31:18,400</StartTime>
+      <Length>3679</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="Justin Long" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:34:21,880</StartTime>
+      <Length>1919</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="Justin Long" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:41:59,320</StartTime>
+      <Length>4399</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="Justin Long" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:42:06,880</StartTime>
+      <Length>2685</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="Justin Long" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:45:58,800</StartTime>
+      <Length>2002</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="Justin Long" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>00:59:12,080</StartTime>
+      <Length>1923</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="Justin Long" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>01:00:03,880</StartTime>
+      <Length>2879</Length>
+      <Person AgeOfActor="75" AgeOfCharacter="75" Gender="Male" NameOfActor="Group" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>01:02:32,120</StartTime>
+      <Length>3159</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="30" Gender="Male" NameOfActor="Justin Long" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>01:06:59,200</StartTime>
+      <Length>2199</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Male" NameOfActor="Vince Vaughn" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="ACaseofYou">
+      <StartTime>01:12:06,040</StartTime>
+      <Length>2839</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Evan Rachel Wood" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Contraband">
+      <StartTime>00:14:54,480</StartTime>
+      <Length>1684</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="35" Gender="Male" NameOfActor="Mark Wahlberg" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Contraband">
+      <StartTime>00:17:44,640</StartTime>
+      <Length>2002</Length>
+      <Person AgeOfActor="39" AgeOfCharacter="35" Gender="Female" NameOfActor="Kate Beckinsale" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Contraband">
+      <StartTime>00:25:03,000</StartTime>
+      <Length>1604</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="35" Gender="Male" NameOfActor="Mark Wahlberg" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Contraband">
+      <StartTime>00:30:56,160</StartTime>
+      <Length>1150</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="35" Gender="Male" NameOfActor="Mark Wahlberg" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Contraband">
+      <StartTime>00:37:33,080</StartTime>
+      <Length>1206</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="35" Gender="Male" NameOfActor="Mark Wahlberg" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Contraband">
+      <StartTime>00:51:10,000</StartTime>
+      <Length>1650</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="35" Gender="Male" NameOfActor="Mark Wahlberg" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Contraband">
+      <StartTime>01:06:23,080</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Male" NameOfActor="Ben Foster" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Contraband">
+      <StartTime>01:06:30,520</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="40" Gender="Male" NameOfActor="Ben Foster" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Contraband">
+      <StartTime>01:18:17,120</StartTime>
+      <Length>1365</Length>
+      <Person AgeOfActor="41" AgeOfCharacter="35" Gender="Male" NameOfActor="Mark Wahlberg" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:12:29,360</StartTime>
+      <Length>1759</Length>
+      <Person AgeOfActor="54" AgeOfCharacter="50" Gender="Female" NameOfActor="Lewis Fitz-Gerald" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:21:37,000</StartTime>
+      <Length>3119</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="20" Gender="Male" NameOfActor="Ryan Corr" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:22:26,280</StartTime>
+      <Length>1759</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="30" Gender="Male" NameOfActor="Ryan Kwanten" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:25:04,480</StartTime>
+      <Length>2519</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="30" Gender="Male" NameOfActor="Ryan Kwanten" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:25:23,280</StartTime>
+      <Length>3500</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="30" Gender="Male" NameOfActor="Ryan Kwanten" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:28:28,240</StartTime>
+      <Length>1430</Length>
+      <Person AgeOfActor="23" AgeOfCharacter="20" Gender="Male" NameOfActor="Ryan Corr" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:32:39,520</StartTime>
+      <Length>1700</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="30" Gender="Male" NameOfActor="Ryan Kwanten" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:37:07,080</StartTime>
+      <Length>4820</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Female" NameOfActor="Sarah Snook" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:40:04,880</StartTime>
+      <Length>4519</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Female" NameOfActor="Sarah Snook" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:40:26,600</StartTime>
+      <Length>1640</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Female" NameOfActor="Susan Prior" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:43:12,720</StartTime>
+      <Length>1600</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Female" NameOfActor="Susan Prior" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:43:19,360</StartTime>
+      <Length>3239</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Female" NameOfActor="Sarah Snook" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:45:30,480</StartTime>
+      <Length>1399</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Female" NameOfActor="Sarah Snook" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:45:31,880</StartTime>
+      <Length>3199</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Female" NameOfActor="Sarah Snook" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:45:45,840</StartTime>
+      <Length>2399</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Female" NameOfActor="Sarah Snook" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:45:56,920</StartTime>
+      <Length>2200</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Female" NameOfActor="Sarah Snook" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:46:12,800</StartTime>
+      <Length>1799</Length>
+      <Person AgeOfActor="25" AgeOfCharacter="25" Gender="Female" NameOfActor="Sarah Snook" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="NotSuitableForChildren">
+      <StartTime>00:50:14,520</StartTime>
+      <Length>2480</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="30" Gender="Male" NameOfActor="Ryan Kwanten" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:10:35,680</StartTime>
+      <Length>4449</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:18:05,320</StartTime>
+      <Length>1159</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Anna Kendrick" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:19:10,760</StartTime>
+      <Length>1679</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:25:04,480</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="75" AgeOfCharacter="75" Gender="Male" NameOfActor="Group" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:26:44,680</StartTime>
+      <Length>2559</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:26:47,240</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:33:34,640</StartTime>
+      <Length>3119</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Female" NameOfActor="Bryce Dallas Howard" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:56:08,760</StartTime>
+      <Length>4359</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Female" NameOfActor="Laura Bertram" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:56:26,200</StartTime>
+      <Length>1809</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>00:59:33,120</StartTime>
+      <Length>1399</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>01:01:48,720</StartTime>
+      <Length>1799</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>01:02:29,040</StartTime>
+      <Length>1439</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>01:06:51,000</StartTime>
+      <Length>2119</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Female" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>01:14:56,040</StartTime>
+      <Length>2479</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="50_50">
+      <StartTime>01:14:58,520</StartTime>
+      <Length>2279</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="25" Gender="Male" NameOfActor="Joseph Gordon-Levitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LastKingOfScotland">
+      <StartTime>00:02:23,480</StartTime>
+      <Length>2844</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Male" NameOfActor="James McAvoy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LastKingOfScotland">
+      <StartTime>00:13:40,000</StartTime>
+      <Length>2002</Length>
+      <Person AgeOfActor="55" AgeOfCharacter="50" Gender="Male" NameOfActor="Forest Whitaker" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LastKingOfScotland">
+      <StartTime>00:13:43,200</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="55" AgeOfCharacter="50" Gender="Male" NameOfActor="Forest Whitaker" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LastKingOfScotland">
+      <StartTime>00:13:46,600</StartTime>
+      <Length>4050</Length>
+      <Person AgeOfActor="55" AgeOfCharacter="50" Gender="Male" NameOfActor="Forest Whitaker" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LastKingOfScotland">
+      <StartTime>00:50:06,800</StartTime>
+      <Length>2685</Length>
+      <Person AgeOfActor="55" AgeOfCharacter="50" Gender="Male" NameOfActor="Forest Whitaker" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LastKingOfScotland">
+      <StartTime>00:50:14,360</StartTime>
+      <Length>3402</Length>
+      <Person AgeOfActor="55" AgeOfCharacter="50" Gender="Male" NameOfActor="Forest Whitaker" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LastKingOfScotland">
+      <StartTime>00:52:21,760</StartTime>
+      <Length>1800</Length>
+      <Person AgeOfActor="55" AgeOfCharacter="50" Gender="Male" NameOfActor="Forest Whitaker" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LastKingOfScotland">
+      <StartTime>00:52:34,720</StartTime>
+      <Length>3402</Length>
+      <Person AgeOfActor="55" AgeOfCharacter="50" Gender="Male" NameOfActor="Forest Whitaker" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="LastKingOfScotland">
+      <StartTime>01:06:20,040</StartTime>
+      <Length>2241</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Male" NameOfActor="James McAvoy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:10:58,600</StartTime>
+      <Length>1161</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:13:01,520</StartTime>
+      <Length>2446</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:22:40,480</StartTime>
+      <Length>4767</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Male" NameOfActor="Hans Matheson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:24:00,680</StartTime>
+      <Length>2321</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:26:16,120</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:31:32,520</StartTime>
+      <Length>1843</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:31:39,560</StartTime>
+      <Length>3368</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:32:29,280</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Male" NameOfActor="Hans Matheson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:35:07,880</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:37:24,280</StartTime>
+      <Length>1923</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Female" NameOfActor="Kate Isitt" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:38:49,000</StartTime>
+      <Length>1001</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:40:39,720</StartTime>
+      <Length>2082</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:42:59,720</StartTime>
+      <Length>3766</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>00:47:20,600</StartTime>
+      <Length>1525</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Male" NameOfActor="Hans Matheson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>01:17:54,720</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Male" NameOfActor="Nicholas Gleaves" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>01:21:55,840</StartTime>
+      <Length>2651</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="30" Gender="Male" NameOfActor="Hans Matheson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>01:37:46,920</StartTime>
+      <Length>1081</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Female" NameOfActor="Demi Moore" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="HalfLight">
+      <StartTime>01:39:52,880</StartTime>
+      <Length>1525</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Female" NameOfActor="Kate Isitt" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>00:07:49,320</StartTime>
+      <Length>2400</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="50" Gender="Female" NameOfActor="Amy Seimetz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>00:08:00,760</StartTime>
+      <Length>1968</Length>
+      <Person AgeOfActor="53" AgeOfCharacter="50" Gender="Female" NameOfActor="Amy Seimetz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>00:15:55,320</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="28" AgeOfCharacter="25" Gender="Female" NameOfActor="Sharni Vinson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>00:16:56,240</StartTime>
+      <Length>2119</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Aj Bowen" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>00:29:10,000</StartTime>
+      <Length>2759</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Aj Bowen" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>00:29:21,240</StartTime>
+      <Length>1360</Length>
+      <Person AgeOfActor="34" AgeOfCharacter="30" Gender="Male" NameOfActor="Aj Bowen" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>00:35:56,960</StartTime>
+      <Length>1000</Length>
+      <Person AgeOfActor="28" AgeOfCharacter="25" Gender="Female" NameOfActor="Sharni Vinson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>00:59:17,560</StartTime>
+      <Length>4479</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Nicholas Tucci" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>00:59:48,120</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Nicholas Tucci" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>01:06:46,720</StartTime>
+      <Length>2400</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Nicholas Tucci" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>01:08:54,560</StartTime>
+      <Length>3083</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Nicholas Tucci" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="YouAreNext">
+      <StartTime>01:09:30,760</StartTime>
+      <Length>2759</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="Nicholas Tucci" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:15:45,760</StartTime>
+      <Length>3288</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Kristen Bell" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:17:03,120</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Kristen Bell" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:18:15,600</StartTime>
+      <Length>1719</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Kristen Bell" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:31:40,960</StartTime>
+      <Length>2399</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Kristen Bell" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:33:54,480</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Kristen Bell" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:37:16,120</StartTime>
+      <Length>2799</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Kristen Bell" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:37:32,200</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="66" AgeOfCharacter="60" Gender="Male" NameOfActor="Ron Rifkin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:37:53,360</StartTime>
+      <Length>1479</Length>
+      <Person AgeOfActor="66" AgeOfCharacter="60" Gender="Male" NameOfActor="Ron Rifkin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:38:00,240</StartTime>
+      <Length>1679</Length>
+      <Person AgeOfActor="66" AgeOfCharacter="60" Gender="Male" NameOfActor="Ron Rifkin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:38:01,920</StartTime>
+      <Length>2359</Length>
+      <Person AgeOfActor="66" AgeOfCharacter="60" Gender="Male" NameOfActor="Ron Rifkin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:38:05,880</StartTime>
+      <Length>1919</Length>
+      <Person AgeOfActor="66" AgeOfCharacter="60" Gender="Male" NameOfActor="Ron Rifkin" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:58:34,360</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Kristen Bell" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>00:59:59,600</StartTime>
+      <Length>2239</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Kristen Bell" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>01:06:18,600</StartTime>
+      <Length>2239</Length>
+      <Person AgeOfActor="24" AgeOfCharacter="25" Gender="Male" NameOfActor="Samm Levine" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Pulse">
+      <StartTime>01:17:52,520</StartTime>
+      <Length>1525</Length>
+      <Person AgeOfActor="26" AgeOfCharacter="25" Gender="Female" NameOfActor="Kristen Bell" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:05:34,800</StartTime>
+      <Length>4403</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:06:06,080</StartTime>
+      <Length>1081</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:07:07,320</StartTime>
+      <Length>1900</Length>
+      <Person AgeOfActor="63" AgeOfCharacter="60" Gender="Male" NameOfActor="Barry Nelson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:07:45,280</StartTime>
+      <Length>3243</Length>
+      <Person AgeOfActor="63" AgeOfCharacter="60" Gender="Male" NameOfActor="Barry Nelson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:08:08,160</StartTime>
+      <Length>3891</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:08:12,280</StartTime>
+      <Length>4642</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:21:18,640</StartTime>
+      <Length>4528</Length>
+      <Person AgeOfActor="10" AgeOfCharacter="10" Gender="Male" NameOfActor="SmallKid" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:21:38,680</StartTime>
+      <Length>4130</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="65" Gender="Male" NameOfActor="Scatman Crothers" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:30:50,760</StartTime>
+      <Length>3288</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:31:08,520</StartTime>
+      <Length>2810</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:31:25,000</StartTime>
+      <Length>3163</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:46:01,560</StartTime>
+      <Length>1968</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:46:03,760</StartTime>
+      <Length>1764</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:46:05,760</StartTime>
+      <Length>1411</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:49:59,680</StartTime>
+      <Length>3004</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:50:07,120</StartTime>
+      <Length>2685</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:50:44,400</StartTime>
+      <Length>3288</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:50:47,920</StartTime>
+      <Length>2651</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:51:38,840</StartTime>
+      <Length>2241</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:51:43,000</StartTime>
+      <Length>4050</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="35" Gender="Female" NameOfActor="Shelley Duvall" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:52:34,320</StartTime>
+      <Length>2810</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="65" Gender="Male" NameOfActor="Scatman Crothers" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>00:52:43,400</StartTime>
+      <Length>3368</Length>
+      <Person AgeOfActor="70" AgeOfCharacter="65" Gender="Male" NameOfActor="Scatman Crothers" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>01:00:37,480</StartTime>
+      <Length>3447</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>01:01:29,600</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>01:01:32,240</StartTime>
+      <Length>2401</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>01:11:15,200</StartTime>
+      <Length>2924</Length>
+      <Person AgeOfActor="43" AgeOfCharacter="45" Gender="Male" NameOfActor="Jack Nicholson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheShining">
+      <StartTime>01:19:56,240</StartTime>
+      <Length>1900</Length>
+      <Person AgeOfActor="31" AgeOfCharacter="35" Gender="Female" NameOfActor="Shelley Duvall" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheEye">
+      <StartTime>00:24:43,480</StartTime>
+      <Length>1200</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Female" NameOfActor="Jessica Alba" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheEye">
+      <StartTime>00:27:39,720</StartTime>
+      <Length>3288</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Female" NameOfActor="Jessica Alba" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheEye">
+      <StartTime>00:36:39,560</StartTime>
+      <Length>2241</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Female" NameOfActor="Jessica Alba" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheEye">
+      <StartTime>00:39:34,640</StartTime>
+      <Length>2048</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Female" NameOfActor="Jessica Alba" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheEye">
+      <StartTime>00:46:53,400</StartTime>
+      <Length>2048</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Female" NameOfActor="Jessica Alba" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheEye">
+      <StartTime>01:01:21,000</StartTime>
+      <Length>1889</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Female" NameOfActor="Jessica Alba" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheEye">
+      <StartTime>01:02:17,640</StartTime>
+      <Length>1650</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Male" NameOfActor="Alessandro Nivola" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="DevilsDue">
+      <StartTime>00:07:46,480</StartTime>
+      <Length>3971</Length>
+      <Person AgeOfActor="32" AgeOfCharacter="30" Gender="Male" NameOfActor="Zach Gilford" Pose="Frontal"/>
+   </Sequence>
+      <Sequence MovieTitle="Django">
+      <StartTime>00:15:38,520</StartTime>
+      <Length>2571</Length>
+      <Person AgeOfActor="56" AgeOfCharacter="50" Gender="Male" NameOfActor="Christoph Waltz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>00:15:41,240</StartTime>
+      <Length>3891</Length>
+      <Person AgeOfActor="56" AgeOfCharacter="50" Gender="Male" NameOfActor="Christoph Waltz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>00:24:21,200</StartTime>
+      <Length>3083</Length>
+      <Person AgeOfActor="75" AgeOfCharacter="75" Gender="Male" NameOfActor="Bruce Dern" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>00:34:53,680</StartTime>
+      <Length>2207</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Male" NameOfActor="Jamie Foxx" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:03:31,720</StartTime>
+      <Length>1600</Length>
+      <Person AgeOfActor="55" AgeOfCharacter="55" Gender="Male" NameOfActor="OldManowner" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:05:11,560</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Male" NameOfActor="Jamie Foxx" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:06:22,160</StartTime>
+      <Length>2200</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Male" NameOfActor="Jamie Foxx" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:14:18,880</StartTime>
+      <Length>4528</Length>
+      <Person AgeOfActor="56" AgeOfCharacter="50" Gender="Male" NameOfActor="Christoph Waltz" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:14:32,160</StartTime>
+      <Length>2970</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Male" NameOfActor="Jamie Foxx" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:20:56,680</StartTime>
+      <Length>3000</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:21:31,600</StartTime>
+      <Length>1490</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:48:24,160</StartTime>
+      <Length>4881</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="65" Gender="Male" NameOfActor="Samuel L. Jackson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:50:20,000</StartTime>
+      <Length>1439</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:51:59,640</StartTime>
+      <Length>2731</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:54:41,400</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>01:56:10,480</StartTime>
+      <Length>3368</Length>
+      <Person AgeOfActor="35" AgeOfCharacter="35" Gender="Female" NameOfActor="Kerry Washington" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>02:01:27,800</StartTime>
+      <Length>3402</Length>
+      <Person AgeOfActor="36" AgeOfCharacter="35" Gender="Male" NameOfActor="Leonardo DiCaprio" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>02:09:13,240</StartTime>
+      <Length>1684</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="65" Gender="Male" NameOfActor="Samuel L. Jackson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>02:09:50,800</StartTime>
+      <Length>1286</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="65" Gender="Male" NameOfActor="Samuel L. Jackson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>02:14:37,680</StartTime>
+      <Length>2890</Length>
+      <Person AgeOfActor="64" AgeOfCharacter="65" Gender="Male" NameOfActor="Samuel L. Jackson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>02:19:13,080</StartTime>
+      <Length>2367</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Male" NameOfActor="Jamie Foxx" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="Django">
+      <StartTime>02:33:40,360</StartTime>
+      <Length>2651</Length>
+      <Person AgeOfActor="44" AgeOfCharacter="40" Gender="Male" NameOfActor="Jamie Foxx" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:03:41,040</StartTime>
+      <Length>2759</Length>
+      <Person AgeOfActor="14" AgeOfCharacter="15" Gender="Female" NameOfActor="Rochelle Davis" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:03:43,800</StartTime>
+      <Length>3163</Length>
+      <Person AgeOfActor="14" AgeOfCharacter="15" Gender="Female" NameOfActor="Rochelle Davis" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:06:28,840</StartTime>
+      <Length>1839</Length>
+      <Person AgeOfActor="14" AgeOfCharacter="15" Gender="Female" NameOfActor="Rochelle Davis" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:22:51,800</StartTime>
+      <Length>4050</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Male" NameOfActor="Brandon Lee" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:24:53,040</StartTime>
+      <Length>4079</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="ShopGuy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:25:47,360</StartTime>
+      <Length>2559</Length>
+      <Person AgeOfActor="50" AgeOfCharacter="50" Gender="Male" NameOfActor="ShopGuy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:26:52,360</StartTime>
+      <Length>1719</Length>
+      <Person AgeOfActor="49" AgeOfCharacter="45" Gender="Male" NameOfActor="Ernie Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:29:41,400</StartTime>
+      <Length>1519</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Male" NameOfActor="ShopGuy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:41:13,320</StartTime>
+      <Length>1570</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Male" NameOfActor="ShopGuy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:43:05,440</StartTime>
+      <Length>3209</Length>
+      <Person AgeOfActor="49" AgeOfCharacter="45" Gender="Male" NameOfActor="Ernie Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:45:10,640</StartTime>
+      <Length>1525</Length>
+      <Person AgeOfActor="49" AgeOfCharacter="45" Gender="Male" NameOfActor="Ernie Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:46:17,440</StartTime>
+      <Length>2810</Length>
+      <Person AgeOfActor="49" AgeOfCharacter="45" Gender="Male" NameOfActor="Ernie Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:47:08,240</StartTime>
+      <Length>3079</Length>
+      <Person AgeOfActor="45" AgeOfCharacter="40" Gender="Male" NameOfActor="ShopGuy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:51:09,000</StartTime>
+      <Length>3879</Length>
+      <Person AgeOfActor="27" AgeOfCharacter="25" Gender="Male" NameOfActor="Brandon Lee" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:52:55,120</StartTime>
+      <Length>2367</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="PolicGuy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:59:24,840</StartTime>
+      <Length>2159</Length>
+      <Person AgeOfActor="30" AgeOfCharacter="30" Gender="Male" NameOfActor="angryPoliceGuy" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>00:59:27,000</StartTime>
+      <Length>2359</Length>
+      <Person AgeOfActor="49" AgeOfCharacter="45" Gender="Male" NameOfActor="Ernie Hudson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="TheCrow">
+      <StartTime>01:02:39,320</StartTime>
+      <Length>2765</Length>
+      <Person AgeOfActor="14" AgeOfCharacter="15" Gender="Female" NameOfActor="Rochelle Davis" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>00:08:04,120</StartTime>
+      <Length>1445</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="20" Gender="Male" NameOfActor="James Howson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>00:19:40,720</StartTime>
+      <Length>1300</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="20" Gender="Male" NameOfActor="Michael Hughes" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>00:21:50,080</StartTime>
+      <Length>2287</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="20" Gender="Male" NameOfActor="James Howson" Pose="Non-Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>00:46:19,560</StartTime>
+      <Length>3322</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="20" Gender="Male" NameOfActor="James Howson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>00:55:40,120</StartTime>
+      <Length>1359</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="20" Gender="Male" NameOfActor="James Howson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>01:22:36,960</StartTime>
+      <Length>3288</Length>
+      <Person AgeOfActor="22" AgeOfCharacter="20" Gender="Female" NameOfActor="Amy Wren " Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>01:29:08,280</StartTime>
+      <Length>2559</Length>
+      <Person AgeOfActor="22" AgeOfCharacter="20" Gender="Male" NameOfActor="Michael Hughes" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>01:32:11,760</StartTime>
+      <Length>2651</Length>
+      <Person AgeOfActor="19" AgeOfCharacter="20" Gender="Female" NameOfActor="Kaya Scodelario" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>01:43:10,160</StartTime>
+      <Length>4244</Length>
+      <Person AgeOfActor="20" AgeOfCharacter="20" Gender="Male" NameOfActor="James Howson" Pose="Frontal"/>
+   </Sequence>
+   <Sequence MovieTitle="WutheringHeights">
+      <StartTime>01:46:43,120</StartTime>
+      <Length>680</Length>
+      <Person AgeOfActor="40" AgeOfCharacter="40" Gender="Male" NameOfActor="sadlady" Pose="Frontal"/>
+   </Sequence>
+</TrainDatabase>
